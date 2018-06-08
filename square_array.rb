@@ -6,8 +6,8 @@
 #   return result
 # end
 
-def square_array(array)
-  return array.collect do |element|
-    element * element
-  end
-end
+# def square_array(array)
+#   return array.collect do |element|
+#     element * element
+#   end
+# end
